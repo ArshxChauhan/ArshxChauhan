@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+## I am Arsh Ahmed Chauhan
+
 Final Year Engineering student at Chitkara University
-- 🌱 I’m currently learning DSA
+
+##
+🌱 I’m currently learning DSA
 
 <!--
 **ArshxChauhan/ArshxChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
