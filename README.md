@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Final Year Engineering student at Chitkara University \n
-🌱 I’m currently learning DSA
+Final Year Engineering student at Chitkara University
+- 🌱 I’m currently learning DSA
 
 <!--
 **ArshxChauhan/ArshxChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
