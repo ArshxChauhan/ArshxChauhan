@@ -16,6 +16,8 @@ Final Year Engineering student at Chitkara University
 <a href="https://twitter.com/Arsh575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arsh575" height="30" width="40" /></a>
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshxChauhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="ArshxChauhan" /></p>
 <!--
 **ArshxChauhan/ArshxChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
