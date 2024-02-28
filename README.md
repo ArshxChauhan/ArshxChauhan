@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Final Year Engineering student at Chitkara University
+Final Year Engineering student at Chitkara University \n
 🌱 I’m currently learning DSA
 
 <!--
